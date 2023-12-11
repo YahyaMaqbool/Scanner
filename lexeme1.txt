@@ -1,0 +1,9 @@
+import maths
+
+ def example_function():
+
+ #this is a comment
+
+ result=2+3
+
+ return result

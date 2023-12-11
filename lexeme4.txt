@@ -1,0 +1,12 @@
+Lexeme: def
+Lexeme: example_function
+Lexeme: (
+Lexeme: )
+Lexeme: :
+Lexeme: result
+Lexeme: =
+Lexeme: 2
+Lexeme: +
+Lexeme: 3
+Lexeme: return
+Lexeme: result
