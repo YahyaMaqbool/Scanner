@@ -1,9 +1,13 @@
 import maths
 
- def example_function():
+ def area():
 
- #this is a comment
+ # This is a simple function that calculates the area of a rectangle
 
- result=2+3
+  length=10
+
+ width=4
+
+ result=10*4
 
  return result
