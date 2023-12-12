@@ -1,3 +1,5 @@
- def example_function():
- result=2+3
+ def area():
+  length=10
+ width=4
+ result=10*4
  return result
